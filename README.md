@@ -79,7 +79,7 @@ Custos detalhados serão publicados semanalmente em [`/docs/cost-log.md`](./docs
 
 - **Cloud:** AWS (única região principal: `sa-east-1`)
 - **IaC:** Terraform 1.7+
-- **CI/CD:** GitHub Actions
+- **CI/CD:** GitHub Actions, GitLab ou Bitbucket (irei escolher e atualizar depois)
 - **Documentação:** Markdown + Mermaid (para diagramas)
 
 ---
