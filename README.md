@@ -14,11 +14,15 @@ Sou **Diego Nery**, Cloud & Infrastructure Architect.
 
 ---
 
+⬜ Não iniciado
+🟡 Em andamento
+✅ Concluído
+
 ## 🗓️ Roadmap das 12 semanas
 
 | Semana | Entregável | Status |
 |---|---|---|
-| 1 | Setup inicial: conta isolada, MFA, IAM Identity Center, billing alarms | 🟡 |
+| 1 | Setup inicial: conta isolada, MFA, IAM Identity Center, billing alarms | ✅ |
 | 2 | AWS Organizations + estrutura de OUs | ⬜ |
 | 3 | Control Tower habilitado + contas filhas | ⬜ |
 | 4 | AFT (Account Factory for Terraform) | ⬜ |
