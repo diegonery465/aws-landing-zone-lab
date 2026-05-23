@@ -6,14 +6,6 @@
 
 ---
 
-## 🎯 Sobre
-
-Esse repositório documenta publicamente a construção completa de uma Landing Zone AWS — incluindo decisões arquiteturais (ADRs), erros, custos e correções. O objetivo é mostrar processo real, não apenas resultado final.
-
-Sou **Diego Nery**, Cloud & Infrastructure Architect.
-
----
-
 ## 🎯 Por que esse lab existe
 
 Arquiteto sênior atuando em ambiente corporativo aprende profundo, mas raramente expõe processo de decisão publicamente. Esse repositório é uma tentativa honesta de mudar isso:
