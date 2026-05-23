@@ -14,28 +14,45 @@ Sou **Diego Nery**, Cloud & Infrastructure Architect.
 
 ---
 
-⬜ Não iniciado
-🟡 Em andamento
-✅ Concluído
+## 🎯 Por que esse lab existe
+
+Arquiteto sênior atuando em ambiente corporativo aprende profundo, mas raramente expõe processo de decisão publicamente. Esse repositório é uma tentativa honesta de mudar isso:
+
+- Documentar **cada decisão arquitetural** via ADRs
+- Mostrar **erro, custo e correção** — não só o resultado final
+- Construir Landing Zone do zero, sem atalhos, sem material de cliente
+- Servir como referência pra quem quer entender Landing Zone na prática
+
+Sou Diego Nery, Cloud & Infrastructure Architect. <!---Mais sobre meu trabalho em [raidsolutions.com.br](https://www.raidsolutions.com.br).-->
+
+---
 
 ## 🗓️ Roadmap das 12 semanas
 
 | Semana | Entregável | Status |
 |---|---|---|
-| 1 | Setup inicial: conta isolada, MFA, IAM Identity Center, billing alarms | ✅ |
-| 2 | AWS Organizations + estrutura de OUs | ⬜ |
-| 3 | Control Tower habilitado + contas filhas | ⬜ |
-| 4 | AFT (Account Factory for Terraform) | ⬜ |
-| 5 | SCPs aplicadas | ⬜ |
+| 1 | Setup inicial: conta isolada, MFA root, IAM Identity Center, billing alarms, repo público | ✅ Concluído |
+| 2 | AWS Organizations + estrutura inicial de OUs | ⬜ |
+| 3 | Control Tower habilitado + primeiras 2 contas filhas | ⬜ |
+| 4 | AFT (Account Factory for Terraform) configurado | ⬜ |
+| 5 | SCPs aplicadas (deny region, deny root, deny disable CloudTrail) | ⬜ |
 | 6 | CloudTrail org-wide + AWS Config | ⬜ |
 | 7 | GuardDuty + Security Hub | ⬜ |
-| 8 | VPC + Transit Gateway | ⬜ |
-| 9 | IPAM | ⬜ |
+| 8 | VPC base + Transit Gateway entre contas | ⬜ |
+| 9 | IPAM com pool definido | ⬜ |
 | 10 | Pipeline Terraform via GitHub Actions | ⬜ |
-| 11 | Documentação completa (README, ADRs, diagramas) | ⬜ |
-| 12 | Artigo Medium consolidando a jornada | ⬜ |
+| 11 | Documentação completa: README, ADRs, diagramas | ⬜ |
+| 12 | Artigo Medium consolidando a jornada + tour final | ⬜ |
+
+**Legenda:** ⬜ Não iniciado · 🟡 Em andamento · ✅ Concluído
 
 ---
+
+
+
+
+
+
 
 ## 📩 Contato
 
