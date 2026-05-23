@@ -15,7 +15,7 @@ Arquiteto sênior atuando em ambiente corporativo aprende profundo, mas rarament
 - Construir Landing Zone do zero, sem atalhos, sem material de cliente
 - Servir como referência pra quem quer entender Landing Zone na prática
 
-Sou Diego Nery, Cloud & Infrastructure Architect. <!---Mais sobre meu trabalho em [raidsolutions.com.br](https://www.raidsolutions.com.br).-->
+Sou Diego Nery, Cloud Platform Architect. <!---Mais sobre meu trabalho em [raidsolutions.com.br](https://www.raidsolutions.com.br).-->
 
 ---
 
