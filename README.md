@@ -40,11 +40,73 @@ Sou Diego Nery, Cloud Platform Architect. <!---Mais sobre meu trabalho em [raids
 
 ---
 
+## 🏗️ Arquitetura-alvo (versão final)
 
+> Diagrama em construção. Será adicionado nas semanas 8-11.
 
+A Landing Zone final terá:
 
+- **AWS Organizations** com OUs estruturadas (Workloads, Sandbox, Security, Infrastructure)
+- **Control Tower + AFT** para account vending automatizado
+- **SCPs (Service Control Policies)** aplicadas por OU
+- **Baseline de segurança** centralizada: CloudTrail, AWS Config, GuardDuty, Security Hub
+- **Networking** com Transit Gateway e IPAM
+- **IAM Identity Center** como provedor SSO
+- **Pipeline Terraform** com GitHub Actions
 
+---
 
+## 📐 Decisões Arquiteturais (ADRs)
+
+ADRs são adicionadas na pasta [`/docs/adr`](./docs/adr) à medida que decisões são tomadas.
+
+> ADRs publicadas aparecerão aqui ao longo das 12 semanas.
+
+---
+
+## 💰 Controle de custo
+
+O lab é mantido com disciplina rigorosa de **tear down**. Componentes caros (Transit Gateway, NAT Gateway) sobem só durante sessões de trabalho e são destruídos ao final.
+
+**Alvo de custo:** USD 30-60 / mês
+**Orçamento máximo do ciclo (12 semanas):** USD 110 (~R$ 600)
+
+Custos detalhados serão publicados semanalmente em [`/docs/cost-log.md`](./docs/cost-log.md).
+
+---
+
+## 📚 Stack utilizada
+
+- **Cloud:** AWS (única região principal: `sa-east-1`)
+- **IaC:** Terraform 1.7+
+- **CI/CD:** GitHub Actions
+- **Documentação:** Markdown + Mermaid (para diagramas)
+
+---
+
+## 📖 Posts publicados sobre o lab
+
+Cada semana gera 1 post no LinkedIn documentando o componente entregue e as decisões técnicas envolvidas.
+
+> Links serão adicionados aqui à medida que os posts forem publicados.
+
+| Semana | Post | Link |
+|---|---|---|
+| 1 | Por que arquiteto sênior precisa de portfólio público | em breve |
+
+---
+
+## ⚠️ Sobre uso do código
+
+Esse é um **lab de aprendizado público**. Código aqui:
+
+- ✅ Pode ser estudado, referenciado e adaptado livremente (licença MIT — ver [LICENSE](./LICENSE))
+- ❌ **Não está pronto para produção sem revisão crítica do contexto** específico do seu ambiente
+- ❌ Não substitui consultoria especializada para casos reais
+
+Se você precisa de Landing Zone em ambiente real, considere consultoria profissional. Eu atendo via [Raid Solutions](https://www.raidsolutions.com.br).
+
+---
 
 ## 📩 Contato
 
