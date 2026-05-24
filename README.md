@@ -8,7 +8,7 @@
 
 ## 🎯 Por que esse lab existe
 
-Arquiteto sênior atuando em ambiente corporativo aprende profundo, mas raramente expõe processo de decisão publicamente. Esse repositório é uma tentativa honesta de mudar isso:
+Arquiteto atuando em ambiente corporativo aprende profundo, mas raramente expõe processo de decisão publicamente. Esse repositório é uma tentativa honesta de mudar isso:
 
 - Documentar **cada decisão arquitetural** via ADRs
 - Mostrar **erro, custo e correção** — não só o resultado final
