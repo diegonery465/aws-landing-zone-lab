@@ -23,7 +23,7 @@ Sou Diego Nery, Cloud Platform Architect. <!---Mais sobre meu trabalho em [raids
 
 | Semana | Entregável | Status |
 |---|---|---|
-| 1 | Setup inicial: conta isolada, MFA root, IAM Identity Center, billing alarms, repo público | ✅ Concluído |
+| 1 | Setup inicial: conta isolada, MFA root, IAM Identity Center, billing alarms, repo público | ✅ |
 | 2 | AWS Organizations + estrutura inicial de OUs | ⬜ |
 | 3 | Control Tower habilitado + primeiras 2 contas filhas | ⬜ |
 | 4 | AFT (Account Factory for Terraform) configurado | ⬜ |
