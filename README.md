@@ -11,7 +11,7 @@
 Arquiteto atuando em ambiente corporativo aprende profundo, mas raramente expõe processo de decisão publicamente. Esse repositório é uma tentativa honesta de mudar isso:
 
 - Documentar **cada decisão arquitetural** via ADRs
-- Mostrar **erro, custo e correção** — não só o resultado final
+- Mostrar **erro, custo e correção**, não só o resultado final
 - Construir Landing Zone do zero, sem atalhos, sem material de cliente
 - Servir como referência pra quem quer entender Landing Zone na prática
 
