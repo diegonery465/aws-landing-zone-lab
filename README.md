@@ -92,7 +92,7 @@ Cada semana gera 1 post no LinkedIn documentando o componente entregue e as deci
 
 | Semana | Post | Link |
 |---|---|---|
-| 1 | Por que arquiteto sênior precisa de portfólio público | em breve |
+| 1 | Informações | em breve |
 
 ---
 
